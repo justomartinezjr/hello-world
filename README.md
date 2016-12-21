@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hi Humans!
 
 Robot here, I like Nodes.js and Coffeescript (that's what I'm made of!).
